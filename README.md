@@ -42,7 +42,7 @@ Once the presentation is published you will be able to update the presentation c
 
 <img width="1004" alt="image" src="https://github.com/user-attachments/assets/3ee34fa4-9ccf-466f-90c5-0c2cd39d4c59">
 
-3. Navigate to the control page (repeat steps 4 and 5 from the "How to get started" section) to regenerate the update MRSS feed with the newly uploaded files. 
+3. Navigate to the control page (repeat steps 4 and 5 from the "How to get started" section) to regenerate the updated MRSS feed with the newly uploaded files. 
 
 
 **Disclaimer: Use at Your Own Risk**
