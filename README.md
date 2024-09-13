@@ -40,7 +40,7 @@ Once the presentation is published you will be able to update the presentation c
 1. Access the player Local DWS by entering the player's IP address
 2. Click on SD tab then Browse to the "NodeApp/public/media" folder. From that folder you can delete and upload new video and image files.
 
-<img width="770" alt="image" src="https://github.com/user-attachments/assets/8876d911-7159-4d4a-a15d-86003f4d5c58">
+<img width="1004" alt="image" src="https://github.com/user-attachments/assets/3ee34fa4-9ccf-466f-90c5-0c2cd39d4c59">
 
 3. Navigate to the control page (repeat steps 4 and 5 from the "How to get started" section) to regenerate the update MRSS feed with the newly uploaded files. 
 
