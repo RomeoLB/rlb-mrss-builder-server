@@ -1,7 +1,7 @@
 # rlb-mrss-builder-server
 Node application to build a Video/Image MRSS feed and serve it from a Brightsign player
 
-This application allows the user to upload image and video files to a specific folder via the player DWS (Diagnostic Web Server) and the from a control page specify the display time for displaying the images and then generate the MRSS feed to be served locally with the click of a button.  
+This application allows the user to upload image and video files to a specific folder via the player DWS (Diagnostic Web Server) and then from a control page specify the display time for displaying the images and then generate the MRSS feed to be served locally with the click of a couple of buttons.  
 
 Who would want to use this application?:
 
