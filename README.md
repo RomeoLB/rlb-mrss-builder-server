@@ -45,4 +45,13 @@ Once the presentation is published you will be able to update the presentation c
 3. Navigate to the control page (repeat steps 4 and 5 from the "How to get started" section) to regenerate the update MRSS feed with the newly uploaded files. 
 
 
+**Disclaimer: Use at Your Own Risk**
+
+The software provided is offered "as-is," without any warranties or guarantees of any kind, either express or implied. By using this software, you acknowledge and agree that any reliance on the information, functionality, or services provided is solely at your own risk. 
+
+The developers and publishers of this software do not assume any responsibility for any damages, losses, or negative consequences that may arise from its use, including but not limited to data loss, system failures, or any other issues that may occur. 
+
+It is your responsibility to ensure that you have proper backups and safeguards in place before using this software. By continuing to use this software, you agree to indemnify and hold harmless the developers and publishers from any claims or damages arising out of your use of the software.
+
+If you do not agree with this disclaimer, you should refrain from using the software.
 
