@@ -7,5 +7,18 @@ Who would want to use this application?:
 
 - Users who do not want to use BrightAuthor (after the initial publish) for content update
 - Users who just want to upload and delete files from a folder for content update
-- Users who want to setup a MRSS builder/server but who don't know how
+- Users who want to setup a MRSS builder/server but who don't know how to do so ( https://docs.brightsign.biz/space/DOC/2036105242/Developers)
+
+How to get started:
+
+1. Download and unzip the content of mrss-builder-server-bs.zip file to a blank SD card.
+2. Insert the SD card with the unziped file in a Brightsign player (whilst thepower connector is unplugged)
+3. Insert the power connector in the player and wait for the player to display at the bottom of the screen the URL for the control page
+   <img width="848" alt="image" src="https://github.com/user-attachments/assets/3268b618-7f2b-4ead-b3ee-efe09e8bcda7">
+4. Using a web browser enter the URL that is displayed at the bootom of the player screen
+   <img width="967" alt="image" src="https://github.com/user-attachments/assets/7977eb0d-3461-447c-8a2f-4d6959c59674">
+5. 
+
+
+
 
