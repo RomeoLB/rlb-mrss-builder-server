@@ -7,7 +7,7 @@ This application allows the user to upload image and video files to a specific f
 
 - Users who do not want to use BrightAuthor (after the initial publish) for content update
 - Users who just want to upload and delete files from a folder for content update
-- Users who want to setup a MRSS builder/server but who don't know how to do so ( https://docs.brightsign.biz/space/DOC/2036105242/Developers)
+- Users who want to setup a MRSS builder/server but who don't know how or can't be bothered to do so ( https://docs.brightsign.biz/space/DOC/2036105242/Developers)
 
 ### How to get started:
 
